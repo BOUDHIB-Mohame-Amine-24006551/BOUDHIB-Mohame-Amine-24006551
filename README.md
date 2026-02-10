@@ -48,8 +48,7 @@
 
 ### 📊 Statistiques GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=BOUDHIB-Mohame-Amine-24006551&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Stats GitHub" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOUDHIB-Mohame-Amine-24006551&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Top Langs" height="180" />
+<img src="https://github-profile-trophy.vercel.app/?username=BOUDHIB-Mohame-Amine-24006551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophées GitHub" />
 
 ---
 
