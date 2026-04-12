@@ -6,13 +6,10 @@
 ---
 
 <a href="www.linkedin.com/in/mohamed-amine-boudhib">
-  <img src="https://img.shields.io/badge/DISPONIBLE_POUR_UN_STAGE-OPENTOWORK-green?style=for-the-badge&logo=linkedin" alt="Open To Work" />
+  <img src="https://img.shields.io/badge/DATA-green?style=for-the-badge&logo=linkedin" alt="IA" />
 </a>
 
 <br/>
-
-🔭 Actuellement à la recherche d'un **stage** en informatique d'une durée de 10 à 12 semaines.  
-
 ---
 
 ### 🛠️ Mes Compétences Techniques
