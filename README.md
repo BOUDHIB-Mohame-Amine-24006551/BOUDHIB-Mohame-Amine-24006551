@@ -23,13 +23,13 @@
 ### 🚀 Mes principaux projets 
 
 #### 🧠 Linea (en cours de développement)
-> ***Agents IA vocaux** permettant de **dialoguer avec un utilisateur** afin de **traiter sa demande**.*
+***Agents IA vocaux** permettant de **dialoguer avec un utilisateur** afin de **traiter sa demande**.*
 
 * **Technologies :** ElevenLabs, n8n.
 * **Objectif :** Pouvoir fournir ces agents à des entreprises qui en ont besoin. 
 
 #### :globe_with_meridians: [BDELive](https://bdelivesae.alwaysdata.net/)
-> *Application web destinée au BDE Inform'Aix*
+> ***Application web** destinée au **BDE Inform'Aix***
 
 * **Technologies :** HTML, PHP, CSS, JS, MySQL, 
 * **Fonctionnalités :** Présentation du BDE, gestion des événements et des actualités.
