@@ -5,13 +5,6 @@
 
 ---
 
-<a href="www.linkedin.com/in/mohamed-amine-boudhib">
-  <img src="https://img.shields.io/badge/DATA-green?style=for-the-badge&logo=linkedin" alt="IA" />
-</a>
-
-<br/>
----
-
 ### 🛠️ Mes Compétences Techniques
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -27,13 +20,13 @@
 
 ---
 
-### 🚀 Mes principaux projets Data
+### 🚀 Mes principaux projets 
 
-#### 🧠 DestinAI (en cours de création)
-> *Logiciel web de recherche de billet d'avion assistée par IA, avec écoute des besoins de l'utilisateur*
+#### 🧠 Linea (en cours de développement)
+> ***Agents IA vocaux** permettant de **dialoguer avec un utilisateur** afin de **traiter sa demande**.*
 
-* **Technologies :** Python, HTML/CSS/PHP, API, SQL.
-* **Objectif :** Proposer des billets d'avion le moins cher possible avec écoute des besoins de l'utilisateur via un prompt vocal ou/et écrit.
+* **Technologies :** ElevenLabs, n8n.
+* **Objectif :** Pouvoir fournir ces agents à des entreprises qui en ont besoin. 
 
 #### :globe_with_meridians: [BDELive](https://bdelivesae.alwaysdata.net/)
 > *Application web destinée au BDE Inform'Aix*
@@ -48,6 +41,6 @@
 <a href="www.linkedin.com/in/mohamed-amine-boudhib">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Amine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:www.linkedin.com/in/mohamed-amine-boudhib">
+<a href="mailto:mamine.boudhib.pro@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
